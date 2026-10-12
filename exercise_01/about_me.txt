@@ -1,0 +1,2 @@
+I am a Master's student in Digital Farming at HSWT.
+I am learning Git and Python for AI and machine learning.
